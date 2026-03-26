@@ -1,5 +1,7 @@
 # Hello everyone 👋
 
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandacamassola&show_icons=true&theme=tokyonight)
+
 Sou curiosa, criativa e apaixonada por tecnologia.
 
 Trabalho com testes automatizados e estou me especializando em desenvolvimento Frontend, com foco na construção de aplicações eficientes, intuitivas e funcionais, considerando a experiência do usuário de forma prática e real, do protótipo até a aplicação final.
@@ -31,5 +33,7 @@ Atualmente estou aprofundando meus conhecimentos em:
 - GitHub: [@amandacamassola](https://github.com/amandacamassola)
 
 ---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=amandacamassola&theme=tokyonight)
 
 > Este perfil está em construção e vai crescer junto com meus projetos, estudos e experiências na área de tecnologia.
