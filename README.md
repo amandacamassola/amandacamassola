@@ -1,17 +1,5 @@
 # Hello everyone 👋
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/amandaamaralc/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/amandacamassola/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="mailto:amandacamassola@outlook.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
 Sou curiosa, criativa e apaixonada por tecnologia.
 
 Trabalho com testes automatizados e estou me especializando em desenvolvimento Frontend, com foco na construção de aplicações eficientes, intuitivas e funcionais, considerando a experiência do usuário de forma prática e real, do protótipo até a aplicação final.
@@ -30,7 +18,6 @@ Trabalho com testes automatizados e estou me especializando em desenvolvimento F
 ![UX%2FUI](https://img.shields.io/badge/UX%2FUI-DB2777?style=for-the-badge)
 
 
-
 ## ✨ Sobre mim
 
 - Atuo com testes e qualidade em aplicações web
@@ -39,4 +26,14 @@ Trabalho com testes automatizados e estou me especializando em desenvolvimento F
 
 ## 🌎 Onde me encontrar
 
-- Redes Sociais: @amandacamassola
+<p align="left">
+  <a href="https://www.linkedin.com/in/amandaamaralc/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="24" />
+  </a>
+  <a href="https://www.instagram.com/amandacamassola/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="24" />
+  </a>
+  <a href="mailto:amandacamassola@outlook.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="24" />
+  </a>
+</p>
