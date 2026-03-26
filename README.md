@@ -20,4 +20,4 @@ Trabalho com testes automatizados e estou me especializando em desenvolvimento F
 
 ## 🌎 Onde me encontrar
 
-- Redes Sociais: /[@amandacamassola]
+- Redes Sociais: @amandacamassola
