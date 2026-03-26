@@ -23,7 +23,7 @@ Trabalho com testes automatizados e estou me especializando em desenvolvimento F
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
 
-## 🌎 Onde me encontrar
+## 📍 Onde me encontrar
 
 <p align="left">
   <a href="https://www.linkedin.com/in/amandaamaralc/">
