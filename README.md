@@ -1,7 +1,6 @@
 # Hello everyone 👋
 
 ![QA](https://img.shields.io/badge/QA-7C3AED?style=for-the-badge)
-![Test%20Automation](https://img.shields.io/badge/Test%20Automation-2563EB?style=for-the-badge)
 ![Frontend](https://img.shields.io/badge/Frontend-0F766E?style=for-the-badge)
 ![UX%2FUI](https://img.shields.io/badge/UX%2FUI-DB2777?style=for-the-badge)
 
