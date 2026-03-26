@@ -21,8 +21,3 @@ Trabalho com testes automatizados e estou me especializando em desenvolvimento F
 ## 🌎 Onde me encontrar
 
 - Redes Sociais: @amandacamassola
-
-## 📊 stats
-
-![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandacamassola&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandacamassola&layout=compact&theme=tokyonight)
