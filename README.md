@@ -4,14 +4,6 @@ Sou curiosa, criativa e apaixonada por tecnologia.
 
 Trabalho com testes automatizados e estou me especializando em desenvolvimento Frontend, com foco na construção de aplicações eficientes, intuitivas e funcionais, considerando a experiência do usuário de forma prática e real, do protótipo até a aplicação final.
 
-![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandacamassola&show_icons=true&theme=tokyonight)
-
-## ✨ Sobre mim
-
-- Atuo com testes e qualidade em aplicações web
-- Tenho interesse em **IA**, **frontend** e **design de interfaces**
-- Gosto de pensar em produto de forma prática: funcionamento, usabilidade e clareza
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
@@ -20,20 +12,12 @@ Trabalho com testes automatizados e estou me especializando em desenvolvimento F
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
 
-## 📌 Em evolução
+## ✨ Sobre mim
 
-Atualmente estou aprofundando meus conhecimentos em:
-
-- desenvolvimento frontend
-- engenharia de software
-- UX/UI aplicado a produtos digitais
+- Atuo com testes e qualidade em aplicações web
+- Tenho interesse em **IA**, **frontend** e **design de interfaces**
+- Gosto de pensar em produto de forma prática: funcionamento, usabilidade e clareza
 
 ## 🌎 Onde me encontrar
 
-- GitHub: [@amandacamassola](https://github.com/amandacamassola)
-
----
-
-![GitHub Streak](https://streak-stats.demolab.com?user=amandacamassola&theme=tokyonight)
-
-> Este perfil está em construção e vai crescer junto com meus projetos, estudos e experiências na área de tecnologia.
+- Redes Sociais: /[@amandacamassola]
