@@ -11,8 +11,6 @@ Trabalho com testes automatizados e estou me especializando em desenvolvimento F
 - Gosto de pensar em produto de forma prática: funcionamento, usabilidade e clareza
 - Atualmente estudando e evoluindo em desenvolvimento, processos e boas práticas de software
 
-## 🚀 Tecnologias e áreas de interesse
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
