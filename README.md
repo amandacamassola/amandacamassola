@@ -1,14 +1,14 @@
 # Hello everyone 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/amandaamaralc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24"/>
+  <a href="https://www.linkedin.com/in/amandaamaralc/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/amandacamassola/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="24" height="24"/>
+  <a href="https://www.instagram.com/amandacamassola/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="mailto:amandacamassola@outlook.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="24" height="24"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
